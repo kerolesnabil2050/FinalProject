@@ -1,0 +1,63 @@
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Services.deps.json
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Services.dll
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Services.pdb
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Data.dll
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Models.dll
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Repositry.dll
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Repositry.pdb
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Data.pdb
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Models.pdb
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.csproj.AssemblyReference.cache
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.AssemblyInfoInputs.cache
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.AssemblyInfo.cs
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.csproj.CoreCompileInputs.cache
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.csproj.CopyComplete
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.dll
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\obj\Debug\net7.0\refint\Ecommerce.Services.dll
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.pdb
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\obj\Debug\net7.0\ref\Ecommerce.Services.dll
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\bin\Debug\net7.0\EcommerceViewModel.dll
+H:\Ecommerce website\WebApplication1\Ecommerce.Services\bin\Debug\net7.0\EcommerceViewModel.pdb
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Services.deps.json
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Services.dll
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Services.pdb
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Data.dll
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Models.dll
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Repositry.dll
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\bin\Debug\net7.0\EcommerceViewModel.dll
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Repositry.pdb
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\bin\Debug\net7.0\EcommerceViewModel.pdb
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Data.pdb
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Models.pdb
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.csproj.AssemblyReference.cache
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.AssemblyInfoInputs.cache
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.AssemblyInfo.cs
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.csproj.CoreCompileInputs.cache
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.csproj.CopyComplete
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.dll
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\obj\Debug\net7.0\refint\Ecommerce.Services.dll
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.pdb
+H:\Ecommerce website\Reositry Design pattern\Ecommerce.Services\obj\Debug\net7.0\ref\Ecommerce.Services.dll
+H:\Ecommerce website\Finalproject\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Services.deps.json
+H:\Ecommerce website\Finalproject\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Services.dll
+H:\Ecommerce website\Finalproject\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Services.pdb
+H:\Ecommerce website\Finalproject\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Data.dll
+H:\Ecommerce website\Finalproject\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Models.dll
+H:\Ecommerce website\Finalproject\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Repositry.dll
+H:\Ecommerce website\Finalproject\Ecommerce.Services\bin\Debug\net7.0\EcommerceViewModel.dll
+H:\Ecommerce website\Finalproject\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Repositry.pdb
+H:\Ecommerce website\Finalproject\Ecommerce.Services\bin\Debug\net7.0\EcommerceViewModel.pdb
+H:\Ecommerce website\Finalproject\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Data.pdb
+H:\Ecommerce website\Finalproject\Ecommerce.Services\bin\Debug\net7.0\Ecommerce.Models.pdb
+H:\Ecommerce website\Finalproject\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.csproj.AssemblyReference.cache
+H:\Ecommerce website\Finalproject\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ecommerce website\Finalproject\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.AssemblyInfoInputs.cache
+H:\Ecommerce website\Finalproject\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.AssemblyInfo.cs
+H:\Ecommerce website\Finalproject\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.csproj.CoreCompileInputs.cache
+H:\Ecommerce website\Finalproject\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.csproj.CopyComplete
+H:\Ecommerce website\Finalproject\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.dll
+H:\Ecommerce website\Finalproject\Ecommerce.Services\obj\Debug\net7.0\refint\Ecommerce.Services.dll
+H:\Ecommerce website\Finalproject\Ecommerce.Services\obj\Debug\net7.0\Ecommerce.Services.pdb
+H:\Ecommerce website\Finalproject\Ecommerce.Services\obj\Debug\net7.0\ref\Ecommerce.Services.dll

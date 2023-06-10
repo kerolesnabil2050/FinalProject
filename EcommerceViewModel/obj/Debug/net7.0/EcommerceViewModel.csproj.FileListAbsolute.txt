@@ -1,0 +1,45 @@
+H:\Ecommerce website\WebApplication1\EcommerceViewModel\bin\Debug\net7.0\EcommerceViewModel.deps.json
+H:\Ecommerce website\WebApplication1\EcommerceViewModel\bin\Debug\net7.0\EcommerceViewModel.dll
+H:\Ecommerce website\WebApplication1\EcommerceViewModel\bin\Debug\net7.0\EcommerceViewModel.pdb
+H:\Ecommerce website\WebApplication1\EcommerceViewModel\bin\Debug\net7.0\Ecommerce.Models.dll
+H:\Ecommerce website\WebApplication1\EcommerceViewModel\bin\Debug\net7.0\Ecommerce.Models.pdb
+H:\Ecommerce website\WebApplication1\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.csproj.AssemblyReference.cache
+H:\Ecommerce website\WebApplication1\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ecommerce website\WebApplication1\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.AssemblyInfoInputs.cache
+H:\Ecommerce website\WebApplication1\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.AssemblyInfo.cs
+H:\Ecommerce website\WebApplication1\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.csproj.CoreCompileInputs.cache
+H:\Ecommerce website\WebApplication1\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.csproj.CopyComplete
+H:\Ecommerce website\WebApplication1\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.dll
+H:\Ecommerce website\WebApplication1\EcommerceViewModel\obj\Debug\net7.0\refint\EcommerceViewModel.dll
+H:\Ecommerce website\WebApplication1\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.pdb
+H:\Ecommerce website\WebApplication1\EcommerceViewModel\obj\Debug\net7.0\ref\EcommerceViewModel.dll
+H:\Ecommerce website\Reositry Design pattern\EcommerceViewModel\bin\Debug\net7.0\EcommerceViewModel.deps.json
+H:\Ecommerce website\Reositry Design pattern\EcommerceViewModel\bin\Debug\net7.0\EcommerceViewModel.dll
+H:\Ecommerce website\Reositry Design pattern\EcommerceViewModel\bin\Debug\net7.0\EcommerceViewModel.pdb
+H:\Ecommerce website\Reositry Design pattern\EcommerceViewModel\bin\Debug\net7.0\Ecommerce.Models.dll
+H:\Ecommerce website\Reositry Design pattern\EcommerceViewModel\bin\Debug\net7.0\Ecommerce.Models.pdb
+H:\Ecommerce website\Reositry Design pattern\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.csproj.AssemblyReference.cache
+H:\Ecommerce website\Reositry Design pattern\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ecommerce website\Reositry Design pattern\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.AssemblyInfoInputs.cache
+H:\Ecommerce website\Reositry Design pattern\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.AssemblyInfo.cs
+H:\Ecommerce website\Reositry Design pattern\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.csproj.CoreCompileInputs.cache
+H:\Ecommerce website\Reositry Design pattern\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.csproj.CopyComplete
+H:\Ecommerce website\Reositry Design pattern\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.dll
+H:\Ecommerce website\Reositry Design pattern\EcommerceViewModel\obj\Debug\net7.0\refint\EcommerceViewModel.dll
+H:\Ecommerce website\Reositry Design pattern\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.pdb
+H:\Ecommerce website\Reositry Design pattern\EcommerceViewModel\obj\Debug\net7.0\ref\EcommerceViewModel.dll
+H:\Ecommerce website\Finalproject\EcommerceViewModel\bin\Debug\net7.0\EcommerceViewModel.deps.json
+H:\Ecommerce website\Finalproject\EcommerceViewModel\bin\Debug\net7.0\EcommerceViewModel.dll
+H:\Ecommerce website\Finalproject\EcommerceViewModel\bin\Debug\net7.0\EcommerceViewModel.pdb
+H:\Ecommerce website\Finalproject\EcommerceViewModel\bin\Debug\net7.0\Ecommerce.Models.dll
+H:\Ecommerce website\Finalproject\EcommerceViewModel\bin\Debug\net7.0\Ecommerce.Models.pdb
+H:\Ecommerce website\Finalproject\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.csproj.AssemblyReference.cache
+H:\Ecommerce website\Finalproject\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ecommerce website\Finalproject\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.AssemblyInfoInputs.cache
+H:\Ecommerce website\Finalproject\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.AssemblyInfo.cs
+H:\Ecommerce website\Finalproject\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.csproj.CoreCompileInputs.cache
+H:\Ecommerce website\Finalproject\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.csproj.CopyComplete
+H:\Ecommerce website\Finalproject\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.dll
+H:\Ecommerce website\Finalproject\EcommerceViewModel\obj\Debug\net7.0\refint\EcommerceViewModel.dll
+H:\Ecommerce website\Finalproject\EcommerceViewModel\obj\Debug\net7.0\EcommerceViewModel.pdb
+H:\Ecommerce website\Finalproject\EcommerceViewModel\obj\Debug\net7.0\ref\EcommerceViewModel.dll
